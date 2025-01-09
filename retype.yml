@@ -1,13 +1,36 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: wiki.chuyentinorz.is-a.dev
 branding:
   title: ChuyentinORZ
-  label: Wikipedia
+  label: Wiki
+  logo: logo.png
+favicon: logo.png
 links:
 - text: Homepage
   link: https://chuyentinorz.is-a.dev
 - text: Blogs
   link: https://orz-blog.github.io
+- text: How to post
+  link: /general/posting-guide
+integrations:
+  googleAnalytics:
+    id: "10130539444" 
+markdown:
+  lineBreaks: soft
+meta:
+  title: " | ChuyentinORZ Wiki"
+search:
+  hotkeys:
+  - "/"
+  - "k"
+  maxResults: 20
+  minChars: 2
+  mode: full
+  noResultsFoundMsg: "Rất tiếc, chúng tôi không tìm thấy nội dung mà bạn cần :("
+  placeholder: "Tìm kiếm..."
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "&copy; Copyright {{ year }} ChuyentinORZ & akk1to.dev. All rights reserved."
+  links:
+  - text: Visit akk1to.dev website
+    link: https://akk1to.is-a.dev
