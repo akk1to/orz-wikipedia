@@ -1,6 +1,5 @@
 input: .
 output: .retype
-url: wiki.chuyentinorz.is-a.dev
 branding:
   title: ChuyentinORZ
   label: Wiki
@@ -9,6 +8,7 @@ favicon: logo.png
 links:
 - text: Homepage
   link: https://chuyentinorz.is-a.dev
+  icon: home
 - text: Blogs
   link: https://orz-blog.github.io
 - text: How to post
