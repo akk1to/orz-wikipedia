@@ -2,7 +2,7 @@ input: .
 output: .retype
 branding:
   title: ChuyentinORZ
-  label: Wiki
+  label: Wikipedia
   logo: logo.png
 favicon: logo.png
 links:
