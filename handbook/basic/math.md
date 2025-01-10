@@ -24,7 +24,7 @@ $u_1 + u_2 + ... + u_n = \frac{n[2u_1 + (n - 1)d]}{2} = \frac{n(u_1 + u_n)}{2}$
 
 $u_1 + u_2 + ... + u_n = \frac{u_1(q^n - 1)}{q - 1}$
 
-Từ đây ta có tổng của $n$lũy thừa đầu tiên của 2 bằng:
+Từ đây ta có tổng của $n$ lũy thừa đầu tiên của 2 bằng:
 
 $1 + 2 + ... + 2^{n - 1} = 2^n - 1$
 ## Lý thuyết tập hợp
@@ -59,7 +59,7 @@ Trong toán học ta cũng có kí hiệu cho các tập hợp số.
 Mối quan hệ giữa các tập hợp số: $\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R}$
 
 
-## LLogarit
+## Logarit
 
 Định nghĩa của logarit được phát biểu như sau:
 
