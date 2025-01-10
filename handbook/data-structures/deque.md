@@ -51,7 +51,7 @@ Thực tế, nếu bạn đọc thông tin về [stack](https://en.cppreference.
 
 ### BFS 0 - 1
 
-Deque được dùng để giải quyết bài toàn tìm đường đi ngắn nhất bằng BFS: [BFS 0 - 1](../graph-theory/bfs-01).
+Deque được dùng để giải quyết bài toàn tìm đường đi ngắn nhất bằng BFS: [BFS 0 - 1](deque.md).
 
 ### Deque trên đoạn tịnh tiến
 

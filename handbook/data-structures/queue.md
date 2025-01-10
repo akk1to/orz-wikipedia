@@ -61,4 +61,4 @@ int main () {
 
 ## Ứng dụng
 
-Một trong những thuật toán sử dụng hàng đợi là [thuật toán BFS](../graph-theory/bfs.md).
+Một trong những thuật toán sử dụng hàng đợi là [thuật toán BFS](/handbook/graph-theory/graph-logic/bfs.md).

@@ -11,11 +11,7 @@ links:
   icon: home
 - text: Blogs
   link: https://orz-blog.github.io
-- text: How to post
-  link: /general/posting-guide
-integrations:
-  googleAnalytics:
-    id: "10130539444" 
+  icon: rss
 markdown:
   lineBreaks: soft
 meta:

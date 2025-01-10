@@ -122,7 +122,7 @@ int RMQ(int l, int r){
 
 ## Ứng dụng
 
-Bảng thưa thường được dùng để tìm các giá trị trong một khoảng một cách nhanh chóng. Các giá trị như tổng, tích, giá trị nhỏ/lớn nhất, gcd, lcm,... Những giá trị còn được dùng để giải quyết các bài toán lớn hơn, ví dụ như: [tìm LCA trong $O(1)$](../graph-theory/lca-rmq.md), [nâng nhị phân](../graph-theory/binary-lifting.md),...
+Bảng thưa thường được dùng để tìm các giá trị trong một khoảng một cách nhanh chóng. Các giá trị như tổng, tích, giá trị nhỏ/lớn nhất, gcd, lcm,... Những giá trị còn được dùng để giải quyết các bài toán lớn hơn, ví dụ như: [tìm LCA trong $O(1)$](/handbook//graph-theory/lca-rmq.md), [nâng nhị phân](/handbook//graph-theory/binary-lifting.md),...
 
 !!! warning
 Bảng thưa chỉ có thể được sử dụng trên mảng tĩnh, tức các giá trị trên mảng không thay đổi. 

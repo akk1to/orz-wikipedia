@@ -71,7 +71,7 @@ Minh họa bằng video: [Insert-sort with Romanian folk dance](https://www.yout
 ## Các thuật toán sắp xếp $O(n \log{n})$
 Thuật toán sắp xếp có thể được tối ưu xuống còn $O(n \log{n})$. Ta sẽ tìm hiểu một số thuật toán sắp xếp phổ biến.
 ### Sắp xếp trộn (Merge sort)
-Thuật toán sắp xếp trộn (Merge sort) là một thuật toán sắp xếp áp dụng mô hình [chia để trị](../algo-paradigms/dnc.md).<br>
+Thuật toán sắp xếp trộn (Merge sort) là một thuật toán sắp xếp áp dụng mô hình [chia để trị](/handbook/algo-paradigms/dnc.md).<br>
 Mô tả thuật toán:
 - Nếu kích cỡ mảng là $1$, kết thúc sắp xếp.
 - Nếu kích cỡ lớn hơn $1$:
@@ -115,7 +115,7 @@ void mergesort(int l, int r){
 ```
 
 Minh hoạ bằng ảnh:
-![Merge Sort](../images/merge_sort.svg)
+![Merge Sort](/images/merge_sort.svg)
 Minh họa bằng video: [Merge-sort with Transylvanian-saxon (German) folk dance](https://www.youtube.com/watch?v=XaqR3G_NVoo)
 
 ### Sắp xếp nhanh (QuickSort)

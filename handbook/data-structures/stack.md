@@ -1,5 +1,5 @@
 ---
-icon: cache
+icon: stack
 tags: [cấu trúc dữ liệu, stack, ngăn xếp, Competitive Programming, CP]
 order: 1000000
 ---
@@ -333,7 +333,7 @@ Nếu ta gọi các hàm quá nhiều, call stack sẽ tràn bộ nhớ và ta n
 
 Để giải quyết việc này, ta thực hiện việc khử đệ quy. Thay vì để máy tính tự tạo một call stack, ta sẽ tự tạo call stack trong bộ nhớ chương trình của ta.
 
-Ta có cài đặt [thuật toán DFS](../graph-theory/dfs.md) sử dụng stack:
+Ta có cài đặt [thuật toán DFS](/handbook/graph-theory/dfs.md) sử dụng stack:
 
 ```C++
 // Giả sử ta lưu đồ thị bằng danh sách kề

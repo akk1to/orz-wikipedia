@@ -88,7 +88,7 @@ Ta có số lượng hình chữ nhật $a \times b$ nhiều nhất có thể đ
 Việc còn lại bây giờ là tìm kiếm nhị phân số $x$ nhỏ nhất mà $f(x) = 1$.
 
 ## Tìm kiếm nhị phân với số thực
-Với cách thực hiện tìm kiếm nhị phân với số thực thì ta cần có cách áp dụng thuật toán theo cách khác. Số thực khó so sánh bằng, như đã nói ở phần [số thực](../programming/data-types.md#số-thực), nếu sử dụng kiểu `while (l <= r)`, vòng lặp sẽ chạy vô tận và chương trình sẽ bị TLE.<br>
+Với cách thực hiện tìm kiếm nhị phân với số thực thì ta cần có cách áp dụng thuật toán theo cách khác. Số thực khó so sánh bằng, như đã nói ở phần [số thực](/handbook/programming/data-types.md#số-thực), nếu sử dụng kiểu `while (l <= r)`, vòng lặp sẽ chạy vô tận và chương trình sẽ bị TLE.<br>
 Để thực hiện việc tìm kiếm nhị phân với số thực, ta chỉnh sửa code như sau:
 ```C++
 double l = 0, r = 1e9f;

@@ -25,7 +25,7 @@ Bạn có thể tham khảo [Một số mẹo khi lập trình C++ trong lập t
 Một trong các IDE được sử dụng rộng rãi trong các máy thi là [Code::Blocks](https://www.codeblocks.org/).<br>
 Trên các máy Windows, để tải về Code::Blocks, ta truy cập [trang web](https://www.codeblocks.org/downloads/binaries/) của Code::Blocks và tải về phiên bản mingw-setup bằng **1 trong 2** đường dẫn mà trang chỉ ta đến, sau đó thực hiện việc tải Code::Blocks.
 
-![Tải về Codeblock](../images/codeblock_download_page.png)
+![Tải về Codeblock](/images/codeblock_download_page.png)
 
 ### Cài đặt Code::Blocks cho lập trình thi đấu
 
