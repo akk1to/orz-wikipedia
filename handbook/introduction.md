@@ -1,7 +1,7 @@
 ---
 icon: info
 tags: [giới thiệu, thông tin, competitive programming]
-order: 10000
+order: 1000000
 ---
 # Giới thiệu về lập trình thi đấu
 !!!
