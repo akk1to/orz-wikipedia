@@ -1,6 +1,5 @@
 ---
 icon: info
-tags: [Gateway]
+order: 100000000000
 ---
-# Trang chính
- This is the wiki repository of ChuyentinORZ, powered by Retype
+# hello bro
