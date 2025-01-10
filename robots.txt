@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wiki.chuyentinorz.is-a.dev/sitemap.xml.gz
+Sitemap: /sitemap.xml.gz
