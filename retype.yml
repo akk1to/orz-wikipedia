@@ -1,7 +1,7 @@
 input: .
 output: .retype
 branding:
-  title: ChuyentinORZ
+  title: Chuyen Tin orz
   label: v1.0.0
   logo: logo.png
 favicon: logo.png
