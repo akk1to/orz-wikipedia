@@ -97,8 +97,8 @@ Ngoài các cuộc thi lập trình thi đấu trực tiếp, nhiều trang web 
 
 ---
 
-1. [Kì thi Olympic truyền thống 301 lần thứ XXVI năm 2021 - THPT Lê Hồng Phong](/http://www.thpt-lehongphong-tphcm.edu.vn/vi/content/ky-thi-olympic-truyen-thong-304-lan-thu-xxvi-nam-2021)
+[!ref icon="link" text="Kì thi Olympic 30/4 lần thứ XXVI năm 2021"](http://www.thpt-lehongphong-tphcm.edu.vn/vi/content/ky-thi-olympic-truyen-thong-304-lan-thu-xxvi-nam-2021)
 
-2. [Gần 2.000 học sinh khu vực duyên hải và đồng bằng Bắc Bộ thi chọn học sinh giỏi tại TP Hải Dương - Báo Hải Dương](https://baohaiduong.vn/gan-2-000-hoc-sinh-khu-vuc-duyen-hai-va-dong-bang-bac-bo-thi-chon-hoc-sinh-gioi-tai-tp-hai-duong-387551.html)
+[!ref icon="link" text="Gần 2.000 học sinh khu vực duyên hải và đồng bằng Bắc Bộ thi chọn học sinh giỏi tại TP Hải Dương"](https://baohaiduong.vn/gan-2-000-hoc-sinh-khu-vuc-duyen-hai-va-dong-bang-bac-bo-thi-chon-hoc-sinh-gioi-tai-tp-hai-duong-387551.html)
 
-3. [Kỳ thi chọn HSG Quốc Gia THPT - Wikipedia](https://vi.wikipedia.org/wiki/Kỳ_thi_chọn_học_sinh_giỏi_quốc_gia_trung_học_phổ_thông)
+[!ref icon="link" text="Kỳ thi chọn HSG Quốc Gia THPT"](https://vi.wikipedia.org/wiki/Kỳ_thi_chọn_học_sinh_giỏi_quốc_gia_trung_học_phổ_thông)

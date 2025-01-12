@@ -37,6 +37,7 @@ for(int i = 1; i <= n; ++i){
 }
 ```
 Minh họa bằng video: [Bubble-sort with Hungarian ("Csángó") folk dance](https://www.youtube.com/watch?v=lyZQPjUT5B4)
+[!embed Bubble-sort with Hungarian ("Csángó") folk dance](https://www.youtube.com/embed/lyZQPjUT5B4)
 
 ### Sắp xếp chọn (Selection sort)
 
@@ -55,6 +56,9 @@ for(int i = 1; i < n; ++i){
 }
 ```
 Minh họa bằng video: [Select-sort with Gypsy folk dance](https://www.youtube.com/watch?v=Ns4TPTC8whw)
+[!embed Select-sort with Gypsy folk dance](https://www.youtube.com/embed/Ns4TPTC8whw)
+
+
 ### Sắp xếp chèn (Insertion sort)
 Thuật toán sắp xếp chèn sẽ lần lượt sắp xếp $1$ phần tử đầu tiên, sau đó là $2$ phần tử, $3$ phần tử, ..., cho tới khi toàn bộ $n$ phần tử đã được sắp xếp.<br>
 Với mỗi phần tử có chỉ số $i$ từ $2$ đến $n$, ta tìm chỉ số của phần tử lớn nhất không lớn hơn phần tử có chỉ số $i$, gọi là $j$. Sau đó, chèn phần tử có chỉ số $i$ vào vị trí $j$ trong mảng.
@@ -68,6 +72,8 @@ for(int i = 2; i <= n; ++i){
 }
 ```
 Minh họa bằng video: [Insert-sort with Romanian folk dance](https://www.youtube.com/watch?v=ROalU379l3U)
+[!embed Insert-sort with Romanian folk dance](https://www.youtube.com/embed/ROalU379l3U)
+
 ## Các thuật toán sắp xếp $O(n \log{n})$
 Thuật toán sắp xếp có thể được tối ưu xuống còn $O(n \log{n})$. Ta sẽ tìm hiểu một số thuật toán sắp xếp phổ biến.
 ### Sắp xếp trộn (Merge sort)
@@ -116,7 +122,9 @@ void mergesort(int l, int r){
 
 Minh hoạ bằng ảnh:
 ![Merge Sort](/images/merge_sort.svg)
+
 Minh họa bằng video: [Merge-sort with Transylvanian-saxon (German) folk dance](https://www.youtube.com/watch?v=XaqR3G_NVoo)
+[!embed Merge-sort with Transylvanian-saxon (German) folk dance](https://www.youtube.com/embed/XaqR3G_NVoo)
 
 ### Sắp xếp nhanh (QuickSort)
 
@@ -150,6 +158,7 @@ void quickSort(int l, int r) {
 ```
 
 Minh họa bằng video: [Quick-sort with Hungarian (Küküllőmenti legényes) folk dance](https://www.youtube.com/watch?v=ywWBy6J5gz8)
+[!embed Quick-sort with Hungarian (Küküllőmenti legényes) folk dance](https://www.youtube.com/embed/ywWBy6J5gz8)
 
 ## Thuật toán sắp xếp nhỏ hơn $O(n \log {n})$?
 

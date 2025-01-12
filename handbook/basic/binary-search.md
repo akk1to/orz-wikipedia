@@ -125,3 +125,4 @@ cout << lu.second - lu.first;
 ```
 
 **Bonus**: [BINARY search with FLAMENCO dance](https://www.youtube.com/watch?v=iP897Z5Nerk)
+[!embed BINARY search with FLAMENCO dance](https://www.youtube.com/embed/iP897Z5Nerk)
