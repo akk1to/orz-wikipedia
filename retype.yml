@@ -5,6 +5,7 @@ branding:
   label: v1.0.0
   logo: logo.png
 favicon: logo.png
+url: wiki.chuyentinorz.is-a.dev
 links:
 - text: Homepage
   link: https://chuyentinorz.is-a.dev
